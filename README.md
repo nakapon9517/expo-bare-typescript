@@ -6,18 +6,14 @@
 # Expo Go
 ```sh
 $ expo start
-$ expo ios/android
 ```
 
 
-# device
+# Simulator
 
 ```sh
-$ expo start
 $ expo ios/android
 ```
-
-if you
 
 # Using Expo Go
 
