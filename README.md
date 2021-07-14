@@ -1,7 +1,5 @@
 # expo-bare-typescript
-### Helloworld in Expo(Bare workflow & Typescript)  
-
-<br/>
+### 📲 Helloworld in Expo(Bare workflow & Typescript)  
 
 # Expo Go
 ```sh
