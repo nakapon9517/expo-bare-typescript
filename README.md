@@ -1,0 +1,2 @@
+# expo-bare-typescript
+Bare workflowのExpoでTypescriptをインストールしてHelloworldまでしたやつ
